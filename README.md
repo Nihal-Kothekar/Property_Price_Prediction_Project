@@ -30,3 +30,26 @@ The dashboard will open in the browser.
 - Model Performance
 - Predict Price
 - Insights
+# Property Price Prediction Dashboard
+
+This is my Streamlit dashboard for the property price prediction project.
+
+The dashboard shows:
+- Dataset overview
+- Missing value analysis
+- Price distribution
+- Correlation analysis
+- Model performance
+- Property price prediction
+
+## Files used
+
+- app.py
+- requirements.txt
+- property_price_data.csv
+
+## How to run locally
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
